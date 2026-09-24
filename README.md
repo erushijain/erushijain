@@ -3,10 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:E62429,100:0077B5&height=200&section=header&text=ERUSHI%20JAIN&fontSize=55&fontColor=FF77A9&animation=twinkling&fontAlignY=38&desc=B.Tech%20CS%20%26%20Data%20Science%20|%20Frontend%20Developer&descAlignY=58&descSize=16&descColor=c9d1d9" />
 
 ```
-      /\_/\        .-'~~~-.         /\_/\                                                      
+      /\_/\        .-'~~~-.          /\_/\                                                      
      ( o.o )      /  🕸️🕸️  \       ( ^.^ )
       > ^ <      |  🕸️🕸️🕸️  |       > ^ <                                             
     ───────────── '-.___.-'  ─────────────
+       
         )    (
         (     ) 
         .-""""-.
